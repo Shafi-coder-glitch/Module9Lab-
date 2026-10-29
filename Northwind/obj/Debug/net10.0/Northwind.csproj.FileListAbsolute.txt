@@ -48,7 +48,6 @@ C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\rjsmcshtml.dswa.
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\scopedcss\bundle\Northwind.styles.css
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\scopedcss\projectbundle\Northwind.bundle.scp.css
-C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\compressed\fz6sikxop1-{0}-b9sayid5wm-b9sayid5wm.gz
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\compressed\qnpqx9rjid-{0}-61n19gt1b8-61n19gt1b8.gz
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\compressed\ozxjlut340-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\compressed\4bzdmjp9x4-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -123,3 +122,5 @@ C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\refint\Northwind
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\Northwind.pdb
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\Northwind.genruntimeconfig.cache
 C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\ref\Northwind.dll
+C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\Northwind.sourcelink.json
+C:\Users\Shafi\Downloads\Module9Lab\Northwind\obj\Debug\net10.0\compressed\fz6sikxop1-{0}-cy29lxv837-cy29lxv837.gz

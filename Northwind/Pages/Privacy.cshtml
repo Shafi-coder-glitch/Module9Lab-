@@ -3,6 +3,11 @@
 @{
     ViewData["Title"] = "Privacy Policy";
 }
+
 <h1>@ViewData["Title"]</h1>
 
-<p>Use this page to detail your site's privacy policy.</p>
+@* This date shows when the privacy policy was last updated. *@
+<p>Last updated: @DateTime.Now.ToString("MMMM dd, yyyy")</p>
+
+@* This statement explains Northwind Traders' commitment to privacy. *@
+<p>At Northwind Traders, we respect your privacy and are committed to protecting your personal data.</p>
